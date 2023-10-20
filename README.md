@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a French student in IT with a deep passion for development, whether it's software applications, web development, or automation scripts. I have a diverse skill set, proficient in various programming languages such as C, C++, Python, Rust, PHP, JavaScript, Java, Haskell, etc .. . I have a keen interest in exploring new technologies, be they old or cutting-edge, and I am always eager to learn.
+I am a French student in IT with a deep passion for development, whether it's software applications, web development, or automation scripts. I have a diverse skill set, proficient in various programming languages such as C, C++, Python, Rust, PHP, JavaScript, Java, Haskell, etc.. . I have a keen interest in exploring new technologies, be they old or cutting-edge, and I am always eager to learn.
 
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dylanabo&theme=dark&hide_border=false)<br/>
